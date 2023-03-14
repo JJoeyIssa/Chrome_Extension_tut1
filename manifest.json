@@ -3,7 +3,6 @@
     "name": "Reading time",
     "version": "1.0",
     "description": "Add the reading time to Chrome Extension documentation articles",
-    "default_locale": "en",
     "author": "Google Chrome Extention Tutorial Team",
 
 
